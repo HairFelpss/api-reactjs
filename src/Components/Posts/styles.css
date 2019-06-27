@@ -1,0 +1,15 @@
+.containerPosts {
+  width: 100%;
+  padding-top: 0;
+}
+.infoField {
+  width: 35%;
+  min-width: 30%;
+  max-width: 70%;
+}
+a {
+  float: right;
+}
+h1 {
+  text-align: center;
+}

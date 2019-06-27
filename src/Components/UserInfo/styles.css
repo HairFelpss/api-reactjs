@@ -1,0 +1,20 @@
+.containerUserInfo {
+  min-width: 80%;
+}
+
+.infoField {
+  max-width: 80%;
+  min-width: 50%;
+  padding-top: 5%;
+  margin: auto;
+  font-size: 16px;
+}
+
+.field {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+p {
+  text-align: center;
+}
